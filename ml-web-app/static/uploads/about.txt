@@ -1,0 +1,1 @@
+It's a directory to store uploaded and processed images.
